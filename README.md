@@ -5,7 +5,8 @@
 
 This library helps in adding feature in your app which allows users to play videos in full screen and normal screen.
 
-![](https://preview.ibb.co/gtKrRm/Screenshot_20180115_110844.png) ![](https://preview.ibb.co/gDbGsR/Screenshot_20180115_110858.png)
+<img src="https://preview.ibb.co/gtKrRm/Screenshot_20180115_110844.png" width="300">
+<img src="https://preview.ibb.co/gDbGsR/Screenshot_20180115_110858.png" width="600">
 
 ## Download library with Jitpack.io
 
