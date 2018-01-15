@@ -5,6 +5,9 @@
 
 This library helps in adding feature in your app which allows users to play videos in full screen and normal screen.
 
+![](https://ibb.co/kc5nz6)
+![](https://ibb.co/ff1hXR)
+
 ## Download library with Jitpack.io
 
 **Step 1:** Add this in your root build.gradle at the end of repositories.
